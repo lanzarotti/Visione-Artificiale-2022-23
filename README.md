@@ -5,7 +5,7 @@ Questa disciplina sta conosendo un periodo di grande fermento, grazie all'avvent
 In questo corso verranno presentati i principi alla base di questa disciplina allo scopo di creare un background necessario sia per comprendere le attuali soluzioni proposte in questo ambito, sia per proporne di nuove.
 
 
-## Programma 
+## Programma (tentative)
 
 1.	Image formation & Early vision
   - Geometric Camera Model
@@ -18,16 +18,18 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
 
 2. Machine Learning 
   - linear Neural Network 
-  - Multi layer Perceptron
+  - Multi Layer Perceptron
   - Convolutional Neural Networks
+  - Recurrent Neural Networks
   - Transformers
-  - Generativ Adversarial Networks 
+  - Generative Adversarial Networks 
   - Graph Neural Networks
   
   ## Materiale
   
   Su questa pagina verrà rilasciato il materiale presentato a lezione (slide, appunti, esercitazioni)
   Si consiglia di approfondire le tematiche sui libri di testo:
+  
   - D.A. Forsyth, J. Ponce   –   Computer Vision – A Modern Approach   –   Pearson, 2nd edition
   - Dive into Deep Learning (online)
   
