@@ -16,7 +16,7 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
   -	Structure from Motion e RGB-d Cameras  
   - Optical Flow and Tracking
 
-### 2. Machine Learning 
+### 2. Machine Learning for Computer Vision
   - Linear Neural Network  
   - Multi Layer Perceptron
   - Convolutional Neural Networks
