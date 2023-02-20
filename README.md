@@ -7,15 +7,6 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
 
 ## Programma 
 
-- Image formation
-- camera calibration
-color & filtering
-feature extraction
-stereo vision
-RGB-D cameras and Libraries 
-Optical flow and tracking 
-
-
 1.	Image formation & Early vision
   - Geometric Camera Model
   - Camera calibration
@@ -32,3 +23,15 @@ Optical flow and tracking
   - Transformers
   - Generativ Adversarial Networks 
   - Graph Neural Networks
+  
+  ## Materiale
+  
+  Su questa pagina verrà rilasciato il materiale presentato a lezione (slide, appunti, esercitazioni)
+  Si consiglia di approfondire le tematiche sui libri di testo:
+  - D.A. Forsyth, J. Ponce   –   Computer Vision – A Modern Approach   –   Pearson, 2nd edition
+  - Dive into Deep Learning (online)
+  
+  
+  ## Modalità d'esame
+  
+  L'esame consiste in una prova orale obbligatoria. E' possibile poi integrare la prova con un progetto facoltativo
