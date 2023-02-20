@@ -31,7 +31,7 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
   Si consiglia di approfondire le tematiche sui libri di testo:
   
   - D.A. Forsyth, J. Ponce   –   Computer Vision – A Modern Approach   –   Pearson, 2nd edition
-  - Dive into Deep Learning (online)
+  - Dive into Deep Learning (online: https://d2l.ai/)
   
   
   ## Modalità d'esame
