@@ -1,4 +1,4 @@
-# Visione-Artificiale-22-23
+# Visione-Artificiale 2022-23
 
 La visione artificiale si occupa della creazione di sistemi in grado di acquisire, elaborare e analizzare immagini e video allo scopo di consentire ai computer di "vedere", "capire" ed  estrarne informazioni utili.
 Questa disciplina sta conosendo un periodo di grande fermento, grazie all'avvento del deep learning e alla sempre maggiore disponibilità di dati e di potenza di calcolo.
