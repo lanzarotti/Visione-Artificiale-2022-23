@@ -7,7 +7,7 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
 
 ## Programma (tentative)
 
-1.	Image formation & Early vision
+### 1.	Image formation & Early vision
   - Geometric Camera Model
   - Camera calibration
   -	Color & filtering
@@ -16,7 +16,7 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
   -	Structure from motion e rgb-d cameras  
   - Optical flow and tracking
 
-2. Machine Learning 
+### 2. Machine Learning 
   - linear Neural Network 
   - Multi Layer Perceptron
   - Convolutional Neural Networks
