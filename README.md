@@ -8,7 +8,7 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
 ## Programma (tentative)
 
 ### 1.	Image formation & Early vision
-  - Geometric Camera Model
+  - Geometric Camera Models
   - Camera calibration
   -	Color & Filtering
   - Feature Extraction
