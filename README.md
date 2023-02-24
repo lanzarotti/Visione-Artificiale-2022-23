@@ -8,13 +8,19 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
 ## Programma (tentative)
 
 ### 1.	Image formation & Early vision
-  - Geometric Camera Models
-  - Camera calibration
-  -	Color & Filtering
-  - Feature Extraction
-  - Stereo Vision
-  -	Structure from Motion e RGB-d Cameras  
-  - Optical Flow and Tracking
+  - Image formation
+      - Geometric Camera Models
+      - Color spaces 
+
+  - Image Processing
+      - Punctual and spatial processing
+      - Feature Extraction
+
+  - Reconstruction
+      - Camera calibration
+      - Stereo Vision
+      - Structure from Motion and RGB-d Cameras
+      - Optical flow and Tracking
 
 ### 2. Machine Learning for Computer Vision
   - Linear Neural Network  
