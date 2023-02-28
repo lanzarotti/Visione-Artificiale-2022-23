@@ -39,6 +39,7 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
   - D.A. Forsyth, J. Ponce   –   Computer Vision – A Modern Approach   –   Pearson, 2nd edition
   - Dive into Deep Learning (online: https://d2l.ai/)
   
+  - per sopperire alla sovrapposizione delle lezioni, sulla pagina myariel verranno caricati i video delle lezioni (ATTENZIONE: a partire dalla seconda!)
   
   ## Modalità d'esame
   
